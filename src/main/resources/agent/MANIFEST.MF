@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Agent-Class: com.tianxiaohui.agent.SimpleAgent
+Premain-Class: com.tianxiaohui.agent.SimpleAgent
+Can-Redefine-Classes: true
+Can-Retransform-Classes: true
+Can-Set-Native-Method-Prefix: false
