@@ -1,7 +1,7 @@
 ---
-title: 
-slug:
-abstract:
+title: title
+slug: titl
+abstract: no abs
 ---
 
 # this is title
