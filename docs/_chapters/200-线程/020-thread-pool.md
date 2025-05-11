@@ -1,7 +1,7 @@
 ---
-slug: dummy2
-title: Dolor sit amet
-abstract: Dolor sit amet, consectetur adipiscing elit. Vestibulum varius maximus erat, quis faucibus nulla venenatis eget.
+slug: thread-pool
+title: Thread pool 的使用及注意事项
+abstract: 为什么要使用 thread pool? 有哪些要注意的事项?
 ---
 
 ## Lorem ipsum
