@@ -1,7 +1,7 @@
 ---
-slug: dummy-3
-title: Neque porro quisquam
-abstract: Interdum et malesuada fames ac ante ipsum primis in faucibus.
+slug: deadlock
+title: 线程死锁
+abstract: 线程死锁死怎么回事? 是如何造成的? 怎么避免?
 ---
 
 ## Curabitur ultrices
