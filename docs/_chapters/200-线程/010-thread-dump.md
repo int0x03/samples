@@ -1,7 +1,7 @@
 ---
-slug: dummy
-title: Lorem ipsum
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+slug: thread-dump
+title: Thread Dump 分析
+abstract: 如何分析一个 thread dump.
 ---
 
 ## Ut enim
