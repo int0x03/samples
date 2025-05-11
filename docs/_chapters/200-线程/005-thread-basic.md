@@ -1,7 +1,7 @@
 ---
-title: Example draft chapter
-slug: draft
-abstract: An example of a "draft" chapter, hidden from the ToC but visible in the outline.
+title: 查看线程
+slug: check-threads
+abstract: 如何查看一个应用程序的线程? 可以使用哪些工具获得线程? 线程有哪些属性? 这些值分别代表什么意思?
 ---
 
 A chapter can be marked as a "draft" by renaming the file and adding `.draft` to the numeric prefix, like this:
