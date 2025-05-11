@@ -1,7 +1,7 @@
 ---
-title: Helper includes
-slug: helpers
-abstract: Helper methods, of a sort, using Jekyll includes.
+title: JDK 自带命令行工具
+slug: jdk-cmd-tools
+abstract: JDK 自带了很多有用的命令行工具, 在生产环境很好用.
 ---
 
 In order for this theme to work natively with GitHub pages,

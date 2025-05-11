@@ -1,7 +1,7 @@
 ---
-title: Theme variables
-slug: variables
-abstract: This theme makes a number of variables related to chapters and parts available to markdown files and Liquid templates.
+title: 反编译工具
+slug: decompile
+abstract: 有时候我们需要反编译线上正在运行的 class 文件, 帮助我们了解它本来的面目.
 ---
 
 The `chapter-vars.html` helper sets a number of variables for this theme,
