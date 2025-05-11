@@ -1,7 +1,7 @@
 ---
-title: Wide tables
-slug: wide-tables
-abstract: Making sure tables look good on mobile.
+title: JDK 自带桌面工具
+slug: jdk-desktop-tools
+abstract: JDK 自带的桌面工具帮助我们分析 Java 应用.
 ---
 
 Tables can be created using normal [GitHub-flavored markdown](https://github.github.com/gfm/#tables-extension-). 
