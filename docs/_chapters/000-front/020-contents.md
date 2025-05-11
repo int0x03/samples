@@ -1,5 +1,5 @@
 ---
-title: Table of Contents
+title: 目录
 slug: contents
 ---
 
