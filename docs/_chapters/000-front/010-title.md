@@ -1,10 +1,10 @@
 ---
 slug: book
-title: Demo Book
-abstract: An example book for showcasing the Jekyll Chapterbook theme.
+title: Java 应用诊断不完全指南
+abstract: 如何诊断 Java 应用从开发到部署中遇到的各种问题, 本书讲给出一些答案.
 ---
 
-By Jason Grimes
+By Eric Tian
 
 Copyright &copy; {{"now" | date: "%Y"}} by {{site.author}}.
 
