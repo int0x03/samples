@@ -1,4 +1,4 @@
 ---
-slug: dummies
+slug: threads
 layout: part
 ---
