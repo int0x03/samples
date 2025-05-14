@@ -50,7 +50,7 @@ public class Debugger {
 通常在当前代码里面点击右键, 然后菜单里面选择 `Debug As` -> `Java Application` 就启动了应用程序. 这时候应用程序已经开始了运行. 如果当前 Eclipse 不是 `Debug` 视图, 它会提醒你是不是打开 `Debug` 视图. 
 
 下面是一个停在某个断点的 `Debug` 视图:
-![debug started view](../../assets/images/debug/debug_started.png)
+![debug started view](assets/images/debug/debug_started.png)
 
 ### 添加/删除断点
 在代码编辑面板最左侧点右键, 在弹出的菜单中选择 `Toggle Breakpoint` 就可以添加删除断点了. 如果当前行已经是断点, 那么 `Disable Breakpoint` 也可以删除当前断点. `Breakpoints` 面板显示当前所有的断点. 
