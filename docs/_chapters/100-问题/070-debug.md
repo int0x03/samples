@@ -56,7 +56,7 @@ public class Debugger {
 在代码编辑面板最左侧点右键, 在弹出的菜单中选择 `Toggle Breakpoint` 就可以添加删除断点了. 如果当前行已经是断点, 那么 `Disable Breakpoint` 也可以删除当前断点. `Breakpoints` 面板显示当前所有的断点. 
 
 如下图所示:
-![enable or disable breakpoint](../../assets/images/debug/dubug_breakpoint.png)
+![enable or disable breakpoint](assets/images/debug/dubug_breakpoint.png)
 
 ### 单步 debug
 如下图所示, 在左侧的 `Debug` 面板里, 会显示当前被 debug 进程的所有线程. 截图的应用里面只有一个主线程(main), 状态显示为挂起(suspend), 当鼠标选中某个线程, 或者它的任何一行栈, 我们就能操纵当前线程的执行. 
@@ -66,7 +66,7 @@ public class Debugger {
 2. Step over: 直接执行完当前行, 进入下一行的执行. 
 3. Step return: 直接执行完当前方法体, 返回上一层的栈. 如果当前行后面还有其它断点, 虽然你点击了 `Step return`, 它也不会立马返回, 而是执行到下一个断点. 
 
-![step debug](../../assets/images/debug/debug_step.png)
+![step debug](assets/images/debug/debug_step.png)
 
 ### 查看断点挂起线程时的变量
 当线程挂起时候, 我们可以查看这个线程正在被执行的方法当时变量的值. 
@@ -77,7 +77,7 @@ public class Debugger {
 
 表格的后面几行就是当前栈的局部变量. 
 
-![debug step show variables](../../assets/images/debug/debug_var_internal.png)
+![debug step show variables](assets/images/debug/debug_var_internal.png)
 
 `Variables` 面板展示的内容根据最左侧 `Debug` 面板里面选择的线程, 和线程对应的栈的行而变化的. 
 
